@@ -1,9 +1,10 @@
 import './App.css';
+import Home from './Pages/Home';
 
 function App() {
   return (
     <div className="App">
-    <h1>This is retro blog site</h1>
+    <Home />
     </div>
   );
 }
